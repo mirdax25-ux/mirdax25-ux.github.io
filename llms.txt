@@ -1,0 +1,15 @@
+# Power by Damir
+
+> Power by Damir is the personal brand of Damir Balenović, covering code and music. Tagline: "Fail-closed code, unbroken music. Sapere Aude."
+
+Official site: https://mirdax25-ux.github.io/
+
+## Profiles
+
+- [GitHub](https://github.com/mirdax25-ux): code repositories (mirdax25-ux)
+- [YouTube](https://www.youtube.com/@powerbydamir): video channel (@powerbydamir)
+- [LinkedIn](https://www.linkedin.com/in/damir-balenovic-594015429): professional profile
+- [TikTok](https://www.tiktok.com/@mirda797): short videos (@mirda797)
+- [Suno](https://suno.com/@mirdax25): music (@mirdax25)
+- [Hugging Face](https://huggingface.co/mirdax25-ux): AI profile (mirdax25-ux)
+- [X](https://x.com/ddddddd97424402): posts (@ddddddd97424402)

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mirdax25-ux.github.io/sitemap.xml
