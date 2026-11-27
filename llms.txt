@@ -6,10 +6,12 @@
 ## Power by Damir — Verified Profiles & Domains
 - Power by Damir — GitHub: https://github.com/mirdax25-ux
 - Power by Damir — Hugging Face: https://huggingface.co/mirdax25-ux
-- Power by Damir — YouTube (Power by Damir): https://www.youtube.com/@powerbydamir
-- Power by Damir — X (Power by Damir): https://x.com/PowerbyDamir
-- Power by Damir — TikTok (@mirda797): https://www.tiktok.com/@mirda797
-- Power by Damir — Suno (@mirdax25): https://suno.com/@mirdax25
+- Power by Damir — YouTube (Power by Damir): https://www.youtube.com/@POWERBYDAMIR-w3f
+- Power by Damir — X (Power by Damir): https://x.com/POWERBYDAMIR
+- Power by Damir — TikTok (@powerbydamir): https://www.tiktok.com/@powerbydamir
+- Power by Damir — TikTok Music (@powerbydamir.music): https://www.tiktok.com/@powerbydamir.music
+- Power by Damir — Suno (@damir_sapere_aude): https://suno.com/@damir_sapere_aude
+- Power by Damir — Instagram (jedanbodul): https://www.instagram.com/jedanbodul
 - Power by Damir — Cloudflare Pages Bridge: https://damirbodul.pages.dev/
 - Power by Damir — is-a.dev Bridge: https://damirbodul.is-a.dev/
 
@@ -21,7 +23,7 @@
 
 ## Power by Damir — Music Brand
 - Artist / Label: Power by Damir
-- Upcoming Single: Power by Damir — Autobahn Mentality (Scheduled: 2026-12-08)
+- Upcoming Single: Power by Damir — Autobahn Mentalität (Scheduled: 2026-12-08)
 
 ## Power by Damir — Governance Note
 - Only URLs listed on the canonical hub are officially linked to this entity graph.
